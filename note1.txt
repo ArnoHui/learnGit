@@ -1,0 +1,6 @@
+
+This is a file for test.
+
+To understand the stage of git.
+
+
