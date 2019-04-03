@@ -6,6 +6,8 @@ I'm learning how to use git.
 Git is a distributed version control system.
 Git if free software.
 
+Git is a distributed version control system.
+Git if free software.
 Do me a favor,please!
 Do me a favor,please!
 Do me a favor,please!
